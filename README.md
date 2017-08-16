@@ -1,1 +1,0 @@
-# openfact-keycloak-theme
